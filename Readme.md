@@ -1,4 +1,5 @@
 # Porsche Sales Intelligence & Performance Dashboard
+Link:https://viniwallaz.github.io/Porsche-Sales---Intelligence-Performance-Dashboard/
 
 Dashboard de análise de vendas do setor automotivo de luxo, construído com **HTML, CSS, Excel e CursorAI**, com filtros interativos, geração automatizada de insights e tratamento de qualidade dos dados.
 
